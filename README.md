@@ -1,3 +1,4 @@
+![Logo](https://github.com/SufiyanAhmed4566/SufiyanAhmed4566/blob/main/GitHub%20banner.png)
 <h1 align="center">Hi 👋, I'm Sufiyan Ahmed</h1>
 <h3 align="center">An aspiring software developer and AI developer</h3>
 
